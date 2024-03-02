@@ -6,41 +6,41 @@ An enthusiastic third-year Computer Science student, I possess a natural ability
 * 🌍  I'm based in Cluj-Napoca <br>
 
 **Skills** 👩‍💻
-| 🚀 Language      | 💡 Proficiency   |
-|------------------|------------------|
-| C                | Proficient       |
-| C++              | Proficient       |
-| Python           | Proficient       |
-| Java             | Proficient       |
-| JavaScript       | Proficient       |
-| Assembly         | Proficient       |
-| C#               | Proficient       |
+| 🚀 Language      |
+|------------------|
+| C                |
+| C++              |
+| Python           |
+| Java             | 
+| JavaScript       | 
+| Assembly         |
+| C#               |
 
-| 🌐 Web Development Stack           | 💻 Proficiency   |
-|----------------------------------|------------------|
-| HTML                             | Proficient       |
-| CSS                              | Proficient       |
-| JavaScript                       | Proficient       |
-| jQuery                           | Proficient       |
-| AJAX                             | Proficient       |
-| PHP                              | Proficient       |
-| Angular                          | Proficient       |
-| JSP                              | Proficient       |
-| ASP.NET                          | Proficient       |
+| 🌐 Web Development Stack         | 
+|----------------------------------|
+| HTML                             |
+| CSS                              |
+| JavaScript                       |
+| jQuery                           |
+| AJAX                             | 
+| PHP                              | 
+| Angular                          |
+| JSP                              |
+| ASP.NET                          |
 
-| 📱 Mobile App Development         | 🚀 Proficiency   |
-|----------------------------------|------------------|
-| Flutter                          | Proficient       |
-| Kotlin                           | Proficient       |
+| 📱 Mobile App Development         | 
+|----------------------------------|
+| Flutter                          | 
+| Kotlin                           | 
 
-| 🗄️ Database Management           | 📊 Proficiency   |
-|----------------------------------|------------------|
-| SQL                              | Proficient       |
+| 🗄️ Database Management           | 
+|----------------------------------|
+| SQL                              | 
 
-| 🚀 Additional Skills              | 🌐 Experience    |
-|----------------------------------|------------------|
-| Testing Techniques               | 🧪 Experienced   |
-| Computer Networks                | 🌐 Experienced   |
-| Operating Systems                | 💻 Experienced   |
+| 🚀 Additional Skills             | 
+|----------------------------------|
+| Testing Techniques               | 
+| Computer Networks                | 
+| Operating Systems                |
 
 
